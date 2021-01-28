@@ -1,0 +1,48 @@
+.titulo {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.anio {
+    background-color: cadetblue;
+    color: black;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.protagonista {
+    background-color: rgb(49, 133, 136);
+    color: black;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.categoria {
+    background-color: rgb(13, 129, 133);
+    color: black;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subtitulo {
+
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+img{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.centrar{
+    display:block;
+    margin: auto;
+}
